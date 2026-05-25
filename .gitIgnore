@@ -1,0 +1,7 @@
+node_modules/
+.pio/
+.env
+dist/
+*.log
+/WebServer/backend/node_modules
+/WebServer/frontend/node_modules
